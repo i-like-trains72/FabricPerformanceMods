@@ -2,6 +2,8 @@
 I try to keep them updated. For 1.16.5!
 **THESE MODS ARE NOT OWNED BY ME THEREFORE THEIR LICENSE STILL REMAINS. GIVE THE DEVS CREDIT, NOT ME! I AM ONLY USING THIS AS A WAY FOR PEOPLE TO EASILY DOWNLOAD PERFORMANCE MODS!**
 
+-You can now find updates in #overlord-lair in my Discord!
+
 -Sodium-iris and Iris-starline are incompatible with Sodium/next.
 
 -C2me may cause issues on very low-end devices.
