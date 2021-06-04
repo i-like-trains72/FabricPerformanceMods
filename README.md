@@ -14,6 +14,8 @@ I try to keep them updated. For 1.16.5!
 
 **Cadmium** - Stops the DFU from being loading, causing startup times to be decreased https://github.com/LucilleTea/cadmium-fabric
 
+**ClientSideNoteBlocks** - Reduces lag when playing noteblocks on the server https://www.curseforge.com/minecraft/mc-mods/client-side-noteblocks
+
 **Cull Leaves** - Makes leave hollow, causing significant FPS boost in forests https://www.curseforge.com/minecraft/mc-mods/cull-leaves
 
 **DashLoader** - Makes startup times insanely fast by caching data (can cause issues when loading resourcepacks; when you load one, restart your game afterwards) https://www.curseforge.com/minecraft/mc-mods/dashloader
