@@ -51,6 +51,7 @@ I try to keep them updated. For 1.16.5!
 **Starlight** - New lighting engine about 100X faster than vanilla https://github.com/Spottedleaf/Starlight ✔️
 
 ---------------------------------- Videos ----------------------------------
+
 Sodium - https://www.youtube.com/watch?v=XmTWwfxVcWI
 DashLoader - https://www.youtube.com/watch?v=V1U6l71FYYk&lc=UgwFgYJMeWzevEJ7DAt4AaABAg.9MtOQo_uFHp9N3aLU69319
 Starlight/c2me - https://www.youtube.com/watch?v=oOpOW8Y7OWQ
@@ -59,6 +60,7 @@ Sodium, Lithium, Phosphor https://www.youtube.com/watch?v=OBWGZsQ1pcE
 
 
 ---------------------------------- ADDITIONAL NOTES ----------------------------------
+
 Iris and Starline and Sodium Starline and all of that is going to be OFFICIALLY released on June 8th, 2021. Depending on any bugs found, their ratings will change accordingly
 Sodium Extra will usually not crash your world but sometimes it has issues with forks of Sodium
 Dashloader crashes with numerous mods that add custom baked models (like things from Adorn and tech mods that add things like pipes) and it crashes with Hydrogen (memory optimization mod from CaffeineMC). It also crashes with the standard Curseforge release of Sodium.
