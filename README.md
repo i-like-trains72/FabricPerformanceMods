@@ -16,6 +16,7 @@ I try to keep them updated. For 1.16.5!
 
 -Please read the Additional Notes section, it has vital information
 
+![fridge banner](https://user-images.githubusercontent.com/82773235/121904994-ad374100-ccf7-11eb-92bd-7311e7e675b8.png)
 ---------------------------------- Mod Descriptions ---------------------------------------------
 
 **C2me** - Multithreads chunks to make them load fast https://github.com/YatopiaMC/C2ME-fabric ❗
@@ -51,8 +52,6 @@ I try to keep them updated. For 1.16.5!
 **Sodium for Iris (works with Starline and normal Iris)** - Sodium for shaders with Iris https://github.com/IrisShaders/sodium-fabric ❗
 
 **Starlight** - New lighting engine about 100X faster than vanilla https://github.com/Spottedleaf/Starlight ✔️
-
-![fridge banner](https://user-images.githubusercontent.com/82773235/121904994-ad374100-ccf7-11eb-92bd-7311e7e675b8.png)
 
 
 ---------------------------------- Videos ----------------------------------
