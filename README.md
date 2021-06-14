@@ -14,15 +14,17 @@ I try to keep them updated. For 1.16.5!
 
 -Mods that are mixed will be marked with a ❗
 
+-Please read the Additional Notes section, it has vital information
+
 ---------------------------------- Mod Descriptions ---------------------------------------------
 
 **C2me** - Multithreads chunks to make them load fast https://github.com/YatopiaMC/C2ME-fabric ❗
 
-**Cadmium** - Stops the DFU from being loading, causing startup times to be decreased https://github.com/LucilleTea/cadmium-fabric ❗
+**Cadmium** - Optimizes the DFU to run faster when it's used https://github.com/LucilleTea/cadmium-fabric ❗
 
-**ClientSideNoteBlocks** - Reduces lag when playing noteblocks on the server https://www.curseforge.com/minecraft/mc-mods/client-side-noteblocks ✔️
+**ClientSideNoteBlocks** - Reduces client-side lag when playing noteblocks on the server https://www.curseforge.com/minecraft/mc-mods/client-side-noteblocks ✔️
 
-**Cull Leaves** - Makes leave hollow, causing significant FPS boost in forests https://www.curseforge.com/minecraft/mc-mods/cull-leaves ✔️
+**Cull Leaves** - Makes leaves look like Optifine's Smart leaves, providing an FPS boost https://www.curseforge.com/minecraft/mc-mods/cull-leaves ✔️
 
 **DashLoader** - Makes startup times insanely fast by caching data (can cause issues when loading resourcepacks; when you load one, restart your game afterwards) https://www.curseforge.com/minecraft/mc-mods/dashloader  ❗
 
@@ -46,9 +48,12 @@ I try to keep them updated. For 1.16.5!
 
 **Sodium** - Insane FPS boosting mod. About 10X better than Optifine on average (results may vary) https://github.com/CaffeineMC/sodium-fabric ✔️
 
-**Sodium IRIS STARLINE SNAPSHOT** - Sodium for shaders with Iris https://github.com/IrisShaders/sodium-fabric ❗
+**Sodium for Iris (works with Starline and normal Iris)** - Sodium for shaders with Iris https://github.com/IrisShaders/sodium-fabric ❗
 
 **Starlight** - New lighting engine about 100X faster than vanilla https://github.com/Spottedleaf/Starlight ✔️
+
+![fridge banner](https://user-images.githubusercontent.com/82773235/121904994-ad374100-ccf7-11eb-92bd-7311e7e675b8.png)
+
 
 ---------------------------------- Videos ----------------------------------
 Sodium - https://www.youtube.com/watch?v=XmTWwfxVcWI
@@ -60,8 +65,19 @@ Sodium, Lithium, Phosphor https://www.youtube.com/watch?v=OBWGZsQ1pcE
 
 ---------------------------------- ADDITIONAL NOTES ----------------------------------
 Iris and Starline and Sodium Starline and all of that is going to be OFFICIALLY released on June 8th, 2021. Depending on any bugs found, their ratings will change accordingly
-Sodium Extra will usually not crash your world but sometimes it has issues with forks of Sodium
-Dashloader crashes with numerous mods that add custom baked models (like things from Adorn and tech mods that add things like pipes) and it crashes with Hydrogen (memory optimization mod from CaffeineMC). It also crashes with the standard Curseforge release of Sodium.
-If you have a lot of mods (no exact number) Cadmium will crash
+Sodium Extras is INCOMPATIBLE WITH IRIS AND ITS FORKS. Also incompat with Sodium 0.2.0
+
+Some more notes on Sodium and Iris since it's kind of confusing
+1) You can choose between Sodium and normal Iris
+2) You can choose betwen Sodium and the Starline fork of Iris
+3) The Starline fork has a configuration menu for shaders while standard Iris does not
+You can choose what to use, just **don't combine both of the Iris mods**
+
+**Dashloader crashes with numerous mods that add custom baked models (like things from Adorn and tech mods that add things like pipes) and it crashes with Hydrogen (memory optimization mod from CaffeineMC). It also crashes with the standard Curseforge release of Sodium. It can also randomly not work for some users, I do not recommend it if you change resourcepacks or mods often.**
+
+If you have a lot of mods (no exact number) Cadmium will crash sometimes
 There's really no need to use Cadmium as of now. LazyDFU is a far, far better choice for now.
-Phosphor is a lighting engine optimization mod from CaffeineMC but it has issues with random chunks turning dark. Starlight is faster but slightly less stable and does not have this issue.
+Phosphor is a lighting engine optimization mod from CaffeineMC, Starlight is faster but is **incompatible with Phosphor** and is also experimental. Chunk loading speeds are improved
+Krypton is a bit weird sometimes, be cautious
+
+To my knowledge, Starlight is the only mod on here that works on the Fridge modloader (synonym for the modloader that has Create and ATM6)
