@@ -38,12 +38,6 @@ I try to keep them updated. For 1.17.1!
 
 **EntityCulling** - Makes entities not render when not visible https://www.curseforge.com/minecraft/mc-mods/entityculling ✔️
 
-**Iris** - Allows Optifine shaders to run in vanilla or with Sodium https://www.modrinth.com/mod/iris ✔️
-
-**Iris (STARLINE)** - Allows Optifine shaders to run in vanilla or with Sodium, but now with a snazzy config menu: https://github.com/HyperCubeMC/Iris/ ✔️
-
-**Sodium for Iris (STARLINE)** - Sodium for shaders with Iris https://github.com/HyperCubeMC/sodium-fabric ✔️
-
 **Cadmium** - Optimizes the DFU to run faster when it's used https://github.com/LucilleTea/cadmium-fabric ❗
 
 **ClientSideNoteBlocks** - Reduces client-side lag when playing noteblocks on the server https://www.curseforge.com/minecraft/mc-mods/client-side-noteblocks ✔️
@@ -66,15 +60,6 @@ Sodium, Lithium, Phosphor https://www.youtube.com/watch?v=OBWGZsQ1pcE
 
 
 ---------------------------------- ADDITIONAL NOTES ----------------------------------
-
-Iris and Starline and Sodium Starline and all of that is going to be OFFICIALLY released on June 8th, 2021. Depending on any bugs found, their ratings will change accordingly
-Sodium Extras is INCOMPATIBLE WITH IRIS AND ITS FORKS. Also incompat with Sodium 0.2.0
-
-Some more notes on Sodium and Iris since it's kind of confusing
-1) The Iris page **comes with Sodium**, do NOT use the release versions of Sodium
-2) Use the GH links for the Starline forks of Iris and Sodium (you need both, standard Iris **will not work**)
-3) The Starline fork has a configuration menu for shaders while standard Iris does not
-You can choose what to use, just **don't combine both of the Iris mods**
 
 **Dashloader crashes with numerous mods that add custom baked models (like things from Adorn and tech mods that add things like pipes) and it crashes with Hydrogen (memory optimization mod from CaffeineMC). It can also randomly not work for some users, I do not recommend it if you change resourcepacks or mods often.**
 
