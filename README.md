@@ -52,9 +52,6 @@ I try to keep them updated. For 1.17.1!
 
 **C2me** - Multithreads chunks to make them load fast https://github.com/YatopiaMC/C2ME-fabric ❗
 
-
-
-
 **DashLoader** - Makes startup times insanely fast by caching data (can cause issues when loading resourcepacks; when you load one, restart your game afterwards) https://www.curseforge.com/minecraft/mc-mods/dashloader  ❗
 
 ---------------------------------- Videos ----------------------------------
