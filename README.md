@@ -36,13 +36,13 @@ I try to keep them updated. For 1.17.1!
 
 **FerriteCore** - Reduces ram usage https://github.com/malte0811/FerriteCore ✔️
 
-**Iris (Starline)** - Allows shaders to be ran on Sodium Iris STARLINE SNAPSHOT https://github.com/IrisShaders/Iris ✔️
+**Iris (Starline)** - Allows Optifine shaders to run in vanilla/Sodium https://www.modrinth.com/mod/iris ✔️
 
 **Krypton** - Network trafic reducer https://github.com/astei/krypton/commits/master ❗
 
-**LazyDFU** - Makes DFU "lazy" (does not compile DFU rules until needed) https://github.com/astei/lazydfu ✔️
+**LazyDFU** - Makes DFU "lazy" (does not compile DFU rules until needed) https://www.modrinth.com/mod/lazydfu ✔️
 
-**Lithium** - General performance improvements https://github.com/CaffeineMC/lithium-fabric ✔️
+**Lithium** - General performance improvements https://www.modrinth.com/mod/lithium ✔️
 
 **ModMenu** - You can see if your mods are loaded properly https://www.curseforge.com/minecraft/mc-mods/modmenu/files ✔️
 
@@ -50,11 +50,13 @@ I try to keep them updated. For 1.17.1!
 
 **Sodium Extra** - Adds more options to sodium https://www.curseforge.com/minecraft/mc-mods/sodium-extra ✔️
 
-**Sodium** - Insane FPS boosting mod. Many, many, *many* times better than vanilla and Optifine.  (results may vary) https://github.com/CaffeineMC/sodium-fabric ✔️
+**Sodium** - Insane FPS boosting mod. Many, many, *many* times better than vanilla and Optifine.  (results may vary) https://www.modrinth.com/mod/sodium ✔️
 
 **Sodium IRIS (STARLINE)** - Sodium for shaders with Iris https://github.com/IrisShaders/sodium-fabric ✔️
 
-**Starlight** - New lighting engine about 100X faster than vanilla https://github.com/Spottedleaf/Starlight ✔️
+**Starlight** - Rewritten lighting engine that is *much* faster than vanilla (over a 35x increase) https://github.com/Spottedleaf/Starlight ✔️
+
+**Phosphor** - Optimizes vanilla's lighting engine and is faster than vanilla https://www.modrinth.com/mod/phosphor ✔️
 
 
 ---------------------------------- Videos ----------------------------------
@@ -62,8 +64,6 @@ I try to keep them updated. For 1.17.1!
 Sodium - https://www.youtube.com/watch?v=XmTWwfxVcWI
 
 DashLoader - https://www.youtube.com/watch?v=V1U6l71FYYk&lc=UgwFgYJMeWzevEJ7DAt4AaABAg.9MtOQo_uFHp9N3aLU69319
-
-Starlight/c2me - https://www.youtube.com/watch?v=oOpOW8Y7OWQ
 
 LazyDFU - https://www.youtube.com/watch?v=gXDqJ598kKA
 
@@ -83,7 +83,8 @@ You can choose what to use, just **don't combine both of the Iris mods**
 
 **Dashloader crashes with numerous mods that add custom baked models (like things from Adorn and tech mods that add things like pipes) and it crashes with Hydrogen (memory optimization mod from CaffeineMC). It also crashes with the standard Curseforge release of Sodium. It can also randomly not work for some users, I do not recommend it if you change resourcepacks or mods often.**
 
--Cadmium may crash sometimes
+-Cadmium may crash sometimes, especially with too many mods
 
--Phosphor is a lighting engine optimization mod from CaffeineMC, Starlight is faster but is **incompatible with Phosphor** and is also experimental. Chunk loading speeds are improved
--Krypton is a bit weird sometimes **when running it on servers**, be cautious
+-Phosphor is a lighting engine optimization mod from CaffeineMC, Starlight is faster but is **incompatible with Phosphor** and is also experimental. Chunk loading speeds are improved, and Starlight maintains vanilla parity. You cannot use Starlight and Phosphor together. You **can** join servers if you have Starlight or Phosphor.
+
+-Krypton can cause numerous wonky issues across systems when joining servers, it will work best if you're on a normal SMP, as opposed to something like Hypixel or a heavily modded server.
