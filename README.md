@@ -1,5 +1,5 @@
 # FabricPerformanceMods
-I try to keep them updated. For 1.16.5!
+I try to keep them updated. For 1.17.1!
 **THESE MODS ARE NOT OWNED BY ME THEREFORE THEIR LICENSE STILL REMAINS. GIVE THE DEVS CREDIT, NOT ME! I AM ONLY USING THIS AS A WAY FOR PEOPLE TO EASILY DOWNLOAD PERFORMANCE MODS!**
 
 -You can now find updates in #overlord-lair in my Discord!
@@ -7,6 +7,8 @@ I try to keep them updated. For 1.16.5!
 -Sodium-iris and Iris-starline are incompatible with Sodium/next.
 
 -C2me may cause issues on very low-end devices.
+
+-Fabric API **may or may not** be needed, this guide assumes you know how to read simple crash log errors and fix them, i.e. not having Java 16 or updating Fabric API
 
 -------------------- Keys ---------------------------------
 
@@ -32,13 +34,11 @@ I try to keep them updated. For 1.16.5!
 
 **EntityCulling** - Makes entities not render when not visible https://www.curseforge.com/minecraft/mc-mods/entityculling ✔️
 
-**Fabric API** - Used by mods as a common language https://www.curseforge.com/minecraft/mc-mods/fabric-api ✔️
-
 **FerriteCore** - Reduces ram usage https://github.com/malte0811/FerriteCore ✔️
 
 **Iris (Starline)** - Allows shaders to be ran on Sodium Iris STARLINE SNAPSHOT https://github.com/IrisShaders/Iris ✔️
 
-**Krypton** - Network trafic reducer https://github.com/astei/krypton/commits/master ✔️
+**Krypton** - Network trafic reducer https://github.com/astei/krypton/commits/master ❗
 
 **LazyDFU** - Makes DFU "lazy" (does not compile DFU rules until needed) https://github.com/astei/lazydfu ✔️
 
@@ -50,7 +50,7 @@ I try to keep them updated. For 1.16.5!
 
 **Sodium Extra** - Adds more options to sodium https://www.curseforge.com/minecraft/mc-mods/sodium-extra ✔️
 
-**Sodium** - Insane FPS boosting mod. About 10X better than Optifine on average (results may vary) https://github.com/CaffeineMC/sodium-fabric ✔️
+**Sodium** - Insane FPS boosting mod. Many, many, *many* times better than vanilla and Optifine.  (results may vary) https://github.com/CaffeineMC/sodium-fabric ✔️
 
 **Sodium IRIS (STARLINE)** - Sodium for shaders with Iris https://github.com/IrisShaders/sodium-fabric ✔️
 
